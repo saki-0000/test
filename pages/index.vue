@@ -2,7 +2,7 @@
   <div>
     <!-- <Tutorial /> -->
     <input type="text" />
-    <button @click="onClick">押したら乱数が出る</button>
+    <button class="button" @click="onClick">押したら乱数が出る</button>
   </div>
 </template>
 
